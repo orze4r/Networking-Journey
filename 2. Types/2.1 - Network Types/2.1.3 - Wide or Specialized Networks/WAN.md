@@ -11,7 +11,7 @@
 This is *not* our cozy little LAN. This is the real-world mess where our internet lives.
 
 WANs cover **cities**, **countries**, and even **continents**.  
-Think: ISPs, undersea cables, [satellites](https://github.com/bwbearr/Field-Notes/blob/11a39d8c6c4408a6cff62d0d1f39c5b05accad95/Networking/4.%20Transmission%20Media/4.2%20-%20Wireless/4.2.6%20-%20Satellite.md), and thousands of routers screaming at each other to pass our WhatsApp meme.
+Think: ISPs, undersea cables, [satellites](https://github.com/orze4r/Networking-Journey/blob/main/4.%20Transmission%20Media/4.2%20-%20Wireless/4.2.6%20-%20Satellite.md), and thousands of routers screaming at each other to pass our WhatsApp meme.
 
 ---
 
@@ -69,9 +69,9 @@ Magical journey of light pulses, baby.
 
 ## How WAN is secured?
 
-- [VPNs](https://github.com/bwbearr/Field-Notes/blob/11a39d8c6c4408a6cff62d0d1f39c5b05accad95/Networking/9.%20Security%20Concepts/VPN.md) to hide our stuff
-- Encryption [(TLS/SSL)](https://github.com/bwbearr/Field-Notes/blob/11a39d8c6c4408a6cff62d0d1f39c5b05accad95/Networking/7.%20Protocols/7.6%20-%20Presentation%20Layer%20Protocols/TLS-SSL.md)
-- Firewalls, [proxies](https://github.com/bwbearr/Field-Notes/blob/11a39d8c6c4408a6cff62d0d1f39c5b05accad95/Networking/9.%20Security%20Concepts/Proxy.md), routing policies
+- [VPNs](https://github.com/orze4r/Networking-Journey/blob/main/9.%20Security%20Concepts/VPN.md) to hide our stuff
+- Encryption [(TLS/SSL)](https://github.com/orze4r/Networking-Journey/blob/main/7.%20Protocols/7.6%20-%20Presentation%20Layer%20Protocols/TLS-SSL.md)
+- Firewalls, [proxies](https://github.com/orze4r/Networking-Journey/blob/main/9.%20Security%20Concepts/Proxy.md), routing policies
 - Nation-state powers (or villains) 😶
 
 ---
