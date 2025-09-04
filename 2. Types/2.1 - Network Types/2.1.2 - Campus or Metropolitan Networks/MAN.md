@@ -10,7 +10,7 @@
 **MAN = Metropolitan Area Network**  
 This one is like if a LAN grew up, moved out, and bought its own apartment in the city.
 
-It covers a **whole city or a big urban area** — bigger than a [LAN](https://github.com/bwbearr/Field-Notes/blob/4294b51f2023c59c1fcd355f6e2bc54d59200487/Networking/2.%20Types/2.1%20-%20Network%20Types/2.1.1%20-%20Personal%20or%20Home%20Networks/LAN.md), smaller than a [WAN](https://github.com/bwbearr/Field-Notes/blob/4294b51f2023c59c1fcd355f6e2bc54d59200487/Networking/2.%20Types/2.1%20-%20Network%20Types/2.1.3%20-%20Wide%20or%20Specialized%20Networks/WAN.md). Think of it as our city’s digital plumbing.
+It covers a **whole city or a big urban area** — bigger than a [LAN](https://github.com/orze4r/Networking-Journey/blob/main/2.%20Types/2.1%20-%20Network%20Types/2.1.1%20-%20Personal%20or%20Home%20Networks/LAN.md), smaller than a [WAN](https://github.com/orze4r/Networking-Journey/blob/main/2.%20Types/2.1%20-%20Network%20Types/2.1.3%20-%20Wide%20or%20Specialized%20Networks/WAN.md). Think of it as our city’s digital plumbing.
 
 ```mermaid
 graph TD
@@ -54,8 +54,8 @@ Or our uni has **multiple campuses across a city** that share one mainframe or d
 
 Usually a MAN uses:
 
-- **[Fiber optic cables](https://github.com/bwbearr/Field-Notes/blob/4294b51f2023c59c1fcd355f6e2bc54d59200487/Networking/4.%20Transmission%20Media/4.1%20-%20Wired/4.1.2%20-%20Fiber%20Optics.md)** (city-wide backbones)
-- **[Microwave](https://github.com/bwbearr/Field-Notes/blob/4294b51f2023c59c1fcd355f6e2bc54d59200487/Networking/4.%20Transmission%20Media/4.2%20-%20Wireless/4.2.2%20-%20Microwaves.md) links** (point-to-point)
+- **[Fiber optic cables](https://github.com/orze4r/Networking-Journey/blob/main/4.%20Transmission%20Media/4.1%20-%20Wired/4.1.2%20-%20Fiber%20Optics.md)** (city-wide backbones)
+- **[Microwave](https://github.com/orze4r/Networking-Journey/blob/main/4.%20Transmission%20Media/4.2%20-%20Wireless/4.2.2%20-%20Microwaves.md) links** (point-to-point)
 - **Ethernet rings** (between major buildings)
 
 It’s high-speed and made for **connecting LANs together**.
