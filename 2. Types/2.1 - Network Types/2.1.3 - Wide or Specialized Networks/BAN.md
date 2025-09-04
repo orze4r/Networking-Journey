@@ -19,7 +19,7 @@ This isn’t our router’s world anymore — this is literally **networking on 
 
 ## How does it work?
 
-- Devices communicate wirelessly over **short-range** (like [Bluetooth](https://github.com/bwbearr/Field-Notes/blob/fdc4e6a18180b4fb0fb98ee2788e7eb19fd93c77/Networking/4.%20Transmission%20Media/4.2%20-%20Wireless/4.2.4%20-%20Bluetooth.md), Zigbee, NFC, etc.)
+- Devices communicate wirelessly over **short-range** (like [Bluetooth](https://github.com/orze4r/Networking-Journey/blob/main/4.%20Transmission%20Media/4.2%20-%20Wireless/4.2.4%20-%20Bluetooth.md), Zigbee, NFC, etc.)
 - Data gets synced with a **nearby phone or device**
 - That phone may send it to cloud services, apps, hospitals, etc.
 
