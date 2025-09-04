@@ -8,16 +8,16 @@
 ## 🏠 What is HAN?
 
 **HAN = Home Area Network**  
-It’s basically the tiny version of a [LAN](https://github.com/bwbearr/Field-Notes/blob/2cc1ab190754b922cb81c6c34e275ff878dcee76/Networking/2.%20Types/2.1%20-%20Network%20Types/2.1.1%20-%20Personal%20or%20Home%20Networks/LAN.md), designed specifically for our home setup.
+It’s basically the tiny version of a [LAN](https://github.com/orze4r/Networking-Journey/blob/main/2.%20Types/2.1%20-%20Network%20Types/2.1.1%20-%20Personal%20or%20Home%20Networks/LAN.md), designed specifically for our home setup.
 
-Think: all our home gadgets connected to our [router](https://github.com/bwbearr/Field-Notes/blob/2cc1ab190754b922cb81c6c34e275ff878dcee76/Networking/3.%20Network%20Hardware%20%26%20Topologies/3.1%20-%20Devices/3.1.5%20-%20Router.md) — our phone, TV, laptop, tablet, smart fridge, even that “smart” bulb that barely works.
+Think: all our home gadgets connected to our [router](https://github.com/orze4r/Networking-Journey/blob/main/3.%20Network%20Hardware%20%26%20Topologies/3.1%20-%20Devices/3.1.5%20-%20Router.md) — our phone, TV, laptop, tablet, smart fridge, even that “smart” bulb that barely works.
 
 ---
 
 ## Why do we care?
 
 Because almost everyone has a HAN — and they don’t even realize it.  
-Our [Wi-Fi](https://github.com/bwbearr/Field-Notes/blob/2cc1ab190754b922cb81c6c34e275ff878dcee76/Networking/4.%20Transmission%20Media/4.2%20-%20Wireless/4.2.3%20-%20WiFi.md) router connects every device in our house into a **private local network**, making them a part of our **Home Area Network**.
+Our [Wi-Fi](https://github.com/orze4r/Networking-Journey/blob/main/4.%20Transmission%20Media/4.2%20-%20Wireless/4.2.3%20-%20WiFi.md) router connects every device in our house into a **private local network**, making them a part of our **Home Area Network**.
 
 It’s like a digital family dinner, where my devices silently talk to each other — sharing files, streaming shows, and sometimes leaking our data if not secured.
 
