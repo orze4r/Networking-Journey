@@ -34,7 +34,7 @@ Devices like our phone, our laptop, our annoying smart TV, and maybe that Alexa 
 
 ## How devices connect?
 
-- **Wired LAN:** [Ethernet cables](https://github.com/bwbearr/Field-Notes/blob/6a56e6e08e8e4d3a07a56ab6d9f0d275a12fa64a/Networking/4.%20Transmission%20Media/4.1%20-%20Wired/4.1.1%20-%20Ethernet.md) + [switch](https://github.com/bwbearr/Field-Notes/blob/6a56e6e08e8e4d3a07a56ab6d9f0d275a12fa64a/Networking/3.%20Network%20Hardware%20%26%20Topologies/3.1%20-%20Devices/3.1.3%20-%20Switch.md)/router
+- **Wired LAN:** [Ethernet cables](https://github.com/orze4r/Networking-Journey/blob/main/4.%20Transmission%20Media/4.1%20-%20Wired/4.1.1%20-%20Ethernet.md) + [switch](https://github.com/orze4r/Networking-Journey/blob/main/3.%20Network%20Hardware%20%26%20Topologies/3.1%20-%20Devices/3.1.3%20-%20Switch.md)/[router](https://github.com/orze4r/Networking-Journey/blob/main/3.%20Network%20Hardware%20%26%20Topologies/3.1%20-%20Devices/3.1.5%20-%20Router.md)
 - **Wireless LAN:** Wi-Fi (the one we're probably using right now)
 - **Hybrid:** Some wired, some wireless
 
@@ -69,7 +69,7 @@ Don’t trust “Guests” — even on your home network
 
 - LAN is our **local private** network.
 - Fast, close-range, and made for internal device comms.
-- Routers, switches, and [access points](https://github.com/bwbearr/Field-Notes/blob/6a56e6e08e8e4d3a07a56ab6d9f0d275a12fa64a/Networking/3.%20Network%20Hardware%20%26%20Topologies/3.1%20-%20Devices/3.1.7%20-%20Access%20Point.md) usually manage it.
+- Routers, switches, and [access points](https://github.com/orze4r/Networking-Journey/blob/main/3.%20Network%20Hardware%20%26%20Topologies/3.1%20-%20Devices/3.1.7%20-%20Access%20Point.md) usually manage it.
 - Not exposed to the whole world… unless misconfigured.
 
 ---
