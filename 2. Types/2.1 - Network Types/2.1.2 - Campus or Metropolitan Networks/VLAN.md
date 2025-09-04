@@ -6,7 +6,7 @@
 ---
 
 > Think of VLANs as **invisible walls** inside our network.  
-They let us split a big group of devices into **smaller, isolated sections** — even if they’re all plugged into the same [switch](https://github.com/bwbearr/Field-Notes/blob/0ead0b5f86bc1f5bb658a0220bb1ea0efce6b1be/Networking/3.%20Network%20Hardware%20%26%20Topologies/3.1%20-%20Devices/3.1.3%20-%20Switch.md).
+They let us split a big group of devices into **smaller, isolated sections** — even if they’re all plugged into the same [switch](https://github.com/orze4r/Networking-Journey/blob/main/3.%20Network%20Hardware%20%26%20Topologies/3.1%20-%20Devices/3.1.3%20-%20Switch.md).
 
 ---
 
