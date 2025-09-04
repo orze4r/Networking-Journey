@@ -3,9 +3,8 @@
 A curated set of networking concepts and diagrams, built from multiple sources.  
 Organized for easy learning, reference, and exploration.
 
-![LICENSE](https://img.shields.io/badge/LICENSE-Creative%20Commons%20NonCommercial--NoDerivatives%204.0-black-orange?style=flat-square)
-
-
+![LICENSE](https://img.shields.io/badge/LICENSE-orange?style=flat-square&color=ivory&labelColor=oblack)
+![TYPE](https://img.shields.io/badge/CC%20BY--NC--ND%204.0-black?style=flat-square)
 
 ---
 
