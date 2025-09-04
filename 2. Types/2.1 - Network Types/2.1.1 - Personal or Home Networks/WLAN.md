@@ -17,9 +17,9 @@ WLAN = Wi-Fi and signal drops.
 
 ## What makes it “wireless”?
 
-- Uses **[radio waves](https://github.com/bwbearr/Field-Notes/blob/1ceebe59d9b678e535e6594db8aaf2f8e707d605/Networking/4.%20Transmission%20Media/4.2%20-%20Wireless/4.2.1%20-%20Radio.md)** instead of cables
+- Uses **[radio waves](https://github.com/orze4r/Networking-Journey/blob/main/4.%20Transmission%20Media/4.2%20-%20Wireless/4.2.1%20-%20Radio.md)** instead of cables
 - Devices connect via **Wi-Fi routers or Access Points**
-- Same IP stuff, same [DHCP](https://github.com/bwbearr/Field-Notes/blob/1ceebe59d9b678e535e6594db8aaf2f8e707d605/Networking/8.%20Other%20Network%20Services%20%26%20Practical%20Concepts/DHCP.md) assigning — but all happens in the air (sometimes with ghosts interfering)
+- Same IP stuff, same [DHCP](https://github.com/orze4r/Networking-Journey/blob/main/8.%20Other%20Network%20Services%20%26%20Practical%20Concepts/DHCP.md) assigning — but all happens in the air (sometimes with ghosts interfering)
 
 ---
 
@@ -31,7 +31,7 @@ WLAN = Wi-Fi and signal drops.
 - Smart fridge (well… it's wierd)
 - Anything with a Wi-Fi chip
 
-These devices connect to the same network — but wirelessly. No [RJ45](https://github.com/bwbearr/Field-Notes/blob/main/Networking/4.%20Transmission%20Media/4.1%20-%20Wired/4.1.1%20-%20Ethernet.md#rj45--the-plug-that-rules-all) plugging drama.
+These devices connect to the same network — but wirelessly. No RJ45 plugging drama.
 
 ---
 
