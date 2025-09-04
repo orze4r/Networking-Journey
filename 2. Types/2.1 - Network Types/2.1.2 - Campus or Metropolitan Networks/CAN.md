@@ -10,7 +10,7 @@
 **CAN = Campus Area Network**  
 Basically a big-ass LAN, but for multiple buildings — like a whole college campus, university, military base, hospital complex, or corporate park.
 
-It connects several LANs together using high-speed backbone links (usually [fiber](https://github.com/bwbearr/Field-Notes/blob/71860845b09203ea975e3d2f1b58e45a82a1ed44/Networking/4.%20Transmission%20Media/4.1%20-%20Wired/4.1.2%20-%20Fiber%20Optics.md) or dedicated leased lines).
+It connects several LANs together using high-speed backbone links (usually [fiber](https://github.com/orze4r/Networking-Journey/blob/main/4.%20Transmission%20Media/4.1%20-%20Wired/4.1.2%20-%20Fiber%20Optics.md) or dedicated leased lines).
 
 Think of it like this:  
 Our college lab + admin office + hostel + cafeteria — all are on their own LANs, but they're tied together via a CAN.
@@ -62,7 +62,7 @@ graph TD
 
 ## Fun Facts
 
-- CANs often have their own **[DNS](https://github.com/bwbearr/Field-Notes/blob/71860845b09203ea975e3d2f1b58e45a82a1ed44/Networking/7.%20Protocols/7.7%20-%20Application%20Layer%20Protocols/DNS.md)**, **[DHCP](https://github.com/bwbearr/Field-Notes/blob/71860845b09203ea975e3d2f1b58e45a82a1ed44/Networking/8.%20Other%20Network%20Services%20%26%20Practical%20Concepts/DHCP.md)**, or even **mail servers**
+- CANs often have their own **[DNS](https://github.com/orze4r/Networking-Journey/blob/main/7.%20Protocols/7.7%20-%20Application%20Layer%20Protocols/DNS.md)**, **[DHCP](https://github.com/orze4r/Networking-Journey/blob/main/8.%20Other%20Network%20Services%20%26%20Practical%20Concepts/DHCP.md)**, or even **mail servers**
 - Sometimes use **fiber optic** connections between buildings
 - Many CANs are **completely isolated** from the internet (air-gapped)
 
