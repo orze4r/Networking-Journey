@@ -9,7 +9,7 @@
 
 **PAN = Personal Area Network** 
 
-*(Not the Paan we eat at Mithu Magahi Paan Dukan in Banaras)*
+*(Not the Paan we eat at Mithu Paan Dukan in Banaras)*
 
 ---
 
@@ -23,7 +23,7 @@ It's used to connect stuff that stays close to us — phone, smartwatch, laptop,
 ## Real-Life examples
 
 - **Our phone connected to our smartwatch**
-- **Laptop transferring files to our phone via [Bluetooth](https://github.com/bwbearr/Field-Notes/blob/79c6c7fb782ed780291a653828bf12bf894c06bc/Networking/4.%20Transmission%20Media/4.2%20-%20Wireless/4.2.4%20-%20Bluetooth.md)**
+- **Laptop transferring files to our phone via [Bluetooth](https://github.com/orze4r/Networking-Journey/blob/main/4.%20Transmission%20Media/4.2%20-%20Wireless/4.2.4%20-%20Bluetooth.md)**
 - **Wireless keyboard/mouse dongle**
 - **Sharing files with ourselves via Hotspot + Wi-Fi Direct**
 
@@ -34,7 +34,7 @@ It's used to connect stuff that stays close to us — phone, smartwatch, laptop,
 | Technology | Use |
 |------------|-----|
 | Bluetooth | Most common for PAN (headphones, wearables, etc.) |
-| [IR (Infrared)](https://github.com/bwbearr/Field-Notes/blob/79c6c7fb782ed780291a653828bf12bf894c06bc/Networking/4.%20Transmission%20Media/4.2%20-%20Wireless/4.2.5%20-%20Infrared.md) | Grandpa tech — almost dead now but used in old remotes, phones |
+| [IR (Infrared)](https://github.com/orze4r/Networking-Journey/blob/main/4.%20Transmission%20Media/4.2%20-%20Wireless/4.2.5%20-%20Infrared.md) | Grandpa tech — almost dead now but used in old remotes, phones |
 | NFC | Used for tap-to-pay and small data exchanges |
 | Wi-Fi Direct | Like Bluetooth but using Wi-Fi power |
 | USB | Yep — technically a wired PAN between our phone and laptop |
