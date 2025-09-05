@@ -46,6 +46,20 @@ It’s **not a formal course**, but it’s **public and shareable**, so anyone c
 
 - **Images from external sources:** Any images in the `/images` folders (may exist in different subfolders of the repository) that are not created by me are included **for reference only** and **are not covered under this license**.
 
+### ⚠️ Note about Dates
+
+Some of the dates you see inside the individual markdown files may **look older than the creation date of this public repository**.  
+
+Here’s why:  
+
+- These notes were originally created and worked on in a **private repository over the past 2–3 months**.  
+- When I decided to make this section public, I **copied the existing content** into this new repository.  
+- The dates in the files reflect **when each note was first written**, not when this public repo was created.  
+
+✅ The content itself is accurate, complete, and represents my learning journey.  
+This note is here to clarify that **older dates don’t mean outdated or irrelevant content** — they just preserve the original creation history.
+
+
 ---
 
 ## 🛠️ Who might find this useful
