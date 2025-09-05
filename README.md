@@ -31,6 +31,10 @@ It’s **not a formal course**, but it’s **public and shareable**, so anyone c
 
 …and all the little notes that make me go *“ohhhh, now I get it.”*
 
+> 📌 Note: This repo doesn’t cover everything (yet).  
+> I’ll continue adding more topics and diagrams as time unfolds.
+
+
 ---
 
 ## ⚠️ License & Credit
@@ -59,5 +63,8 @@ It’s a curated collection of networking concepts, diagrams, and explanations �
 
 Each diagram, each markdown file, each explanation represents a small step in understanding networking more deeply.  
 The goal is to **document, explore, and make learning tangible** — one concept at a time.  
+
+This is not the “final word” on networking.  
+It’s a **living resource** — I’ll keep updating it with more concepts, notes, and diagrams as I learn further.
 
 If you’re browsing through, welcome — this is how networking can be approached, understood, and referenced in a practical, structured way.
