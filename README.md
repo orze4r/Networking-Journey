@@ -8,7 +8,7 @@ Organized for easy learning, reference, and exploration.
 
 ---
 
-## 💡 What this repo is
+## What this repo is
 
 This is a **curated collection of networking material**, built to document concepts, diagrams, and practical insights from multiple sources — including college teachings, books, and my own exploration.  
 
@@ -56,7 +56,7 @@ It’s **not a formal course**, but it’s **public and shareable**, so anyone c
 
 ---
 
-## 🧭 Final Thought
+## Final Thought
 
 This repository isn’t about impressing anyone or presenting a “perfect” resource.  
 It’s a curated collection of networking concepts, diagrams, and explanations — built from multiple sources, organized for clarity, and refined through practice.  
